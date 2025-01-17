@@ -20,5 +20,5 @@
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Csharp" height="15%" width="15%" src="https://cdn.discordapp.com/attachments/896022224677515284/1307531643220656168/eu.jpeg?ex=673aa53c&is=673953bc&hm=9e09968b1fdf8df5f1238a1307beb80ad9f6826ca801149dd8535e20b6a62291&">
+  <img align="right" alt="eu" height="15%" width="15%" src="https://cdn.discordapp.com/attachments/896022224677515284/1307531643220656168/eu.jpeg?ex=673aa53c&is=673953bc&hm=9e09968b1fdf8df5f1238a1307beb80ad9f6826ca801149dd8535e20b6a62291&">
 </div>
